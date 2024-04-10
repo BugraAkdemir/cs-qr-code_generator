@@ -1,0 +1,12 @@
+D:\B-C#\Qr-Code Generetar\bin\Debug\Qr-Code Generetar.exe.config
+D:\B-C#\Qr-Code Generetar\bin\Debug\Qr-Code Generetar.exe
+D:\B-C#\Qr-Code Generetar\bin\Debug\Qr-Code Generetar.pdb
+D:\B-C#\Qr-Code Generetar\bin\Debug\MessagingToolkit.QRCode.dll
+D:\B-C#\Qr-Code Generetar\obj\Debug\Qr-Code Generetar.csproj.AssemblyReference.cache
+D:\B-C#\Qr-Code Generetar\obj\Debug\Qr_Code_Generetar.Form1.resources
+D:\B-C#\Qr-Code Generetar\obj\Debug\Qr_Code_Generetar.Properties.Resources.resources
+D:\B-C#\Qr-Code Generetar\obj\Debug\Qr-Code Generetar.csproj.GenerateResource.cache
+D:\B-C#\Qr-Code Generetar\obj\Debug\Qr-Code Generetar.csproj.CoreCompileInputs.cache
+D:\B-C#\Qr-Code Generetar\obj\Debug\Qr-Code .5087F7E7.Up2Date
+D:\B-C#\Qr-Code Generetar\obj\Debug\Qr-Code Generetar.exe
+D:\B-C#\Qr-Code Generetar\obj\Debug\Qr-Code Generetar.pdb
